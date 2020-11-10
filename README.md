@@ -26,7 +26,7 @@ No license
 dawisen
 
 ## Testing
-> npm test
+> npm run test
   
 ## Questions
 If you have any questions or issues please contact me via [email](daniellewwise@gmail.com)<br>

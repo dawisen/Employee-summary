@@ -1,0 +1,23 @@
+{
+  "name": "template-engine-employee-summary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawisen/Template-Engine-Employee-Summary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dawisen/Template-Engine-Employee-Summary/issues"
+  },
+  "homepage": "https://github.com/dawisen/Template-Engine-Employee-Summary#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "jest": "^26.6.3"
+  }
+}

@@ -4,6 +4,8 @@
 ## Description:
 This application generates team member information from Node command line. Users are prompted for info about their team manager and team members (either engineers or interns). Once all the prompts are answered, it generates an HTML page with responsive, stylish formatting that shows info about a user's team members.
 
+## Demo
+[Watch my demo on YouTube](https://youtu.be/fOq-rVqzoGs)<br>
 ## Table of Contents
 
 * [Installation](#Installation)
@@ -14,7 +16,7 @@ This application generates team member information from Node command line. Users
 * [Questions](#Questions)
 
 ## Installation
-[Watch my video demo on YouTube](https://youtu.be/fOq-rVqzoGs)<br>
+
 > npm i inquirer && npm i jest
 
   

@@ -15,6 +15,7 @@ This application generates team member information from Node command line. Users
 
 ## Installation
 > npm i inquirer && npm i jest
+[Watch my video demo on YouTube](https://youtu.be/fOq-rVqzoGs)
   
 ## Usage
 To use the repo, fork it to your github page or clone the repository.
